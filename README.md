@@ -1,14 +1,33 @@
-# Alexa Skills Issue Tracker
+<div align="center">
 
-The goal of this repository is to provide a transparent and structured view of issues affecting Alexa Skills in Alexa+.  
+# 🗣️ Alexa Skills Issue Tracker
 
-**DISCLAIMER**: This is a community-maintained project and is not affiliated with or endorsed by Amazon. **Issues created in this repo aren't actively screened, triaged or actioned by Amazon.** However, the community would welcome Amazon’s participation in this effort, including updates, clarifications, or additional context where appropriate.
+*A transparent, structured initiative to track issues affecting Alexa Skills in Alexa+.*
 
-The core of this repository is the **[Issues](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues)** section. Each issue represents a concrete, reproducible problem or request concerning Alexa Skills in Alexa+.
+[![Issues](https://img.shields.io/github/issues/Alexa-Skills-Developer-Community/issue-tracker?style=flat-square)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues)
 
-This repo does not intend to replace the official channels for reporting issues to Amazon, such as the [Developer Support Portal](https://developer.amazon.com/alexa/console/developer-support),  the [Alexa Developer Forums](https://forums.developer.amazon.com/spaces/101/alexa-skills-kit.html), or the [Alexa Skills Community Slack](https://alexacommunity.slack.com/archives/C01DR953CAZ).
+</div>
 
-## Purpose
+---
+
+> [!WARNING]
+> **Community Maintained**  
+> This is a community-maintained project and is not affiliated with or endorsed by Amazon. **Issues created in this repo aren't actively screened, triaged or actioned by Amazon.** However, the community welcomes Amazon’s participation in this effort, including updates, clarifications, or additional context where appropriate.
+
+## 🚀 Quick Actions: Create an Issue
+
+*Please check if your issue [already exists](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues) before creating a new one.*
+
+<div align="center">
+
+[![Report a Bug](https://img.shields.io/badge/Report_a_Bug-d73a4a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues/new?template=bug_report.md)
+[![Request Clarification](https://img.shields.io/badge/Request_Clarification-ffc107?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues/new?template=clarification-needed.md)
+[![Suggest Improvement](https://img.shields.io/badge/Suggest_Improvement-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues/new?template=improvement-needed.md)
+
+</div>
+
+## 🎯 Purpose
 
 Over time, a number of challenges have emerged around functionality, discoverability, and overall experience for Alexa Skills on Alexa+. There's no central place to track progress on these issues for the Alexa developer community, so this tracker aims to:
 
@@ -17,20 +36,30 @@ Over time, a number of challenges have emerged around functionality, discoverabi
 - Improve **transparency on impact and status**  
 - Enable more effective **communication with Amazon**
 
-## Creating an Issue
+## 🏗️ How the Tracker Works
 
-Make sure to: 
-- Before creating a new issue, please check if it already exists  
-- Use clear, descriptive titles  
-- Keep each issue focused on a **single topic**  
-- Add relevant comments or updates if new information becomes available  
+This repository relies heavily on community engagement to identify the most impactful issues. Since Amazon does not actively manage this repository, here is how you can help:
 
-Depending on your concern, create one of the following:
-- [New bug report](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues/new?template=bug_report.md) when something is not working as expected.
-- [Clarification needed](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues/new?template=clarification-needed.md) request when seeking clarity on behavior, policy, or expected functionality that only Amazon might be able to provide 
-- [Improvement needed](.github/ISSUE_TEMPLATE/improvement-needed.md) request when you'd like to request an optimization that'd improve the Alexa skill experience for customers in Alexa+.    
+### 1. Show Support / Upvoting
+To avoid unnecessary email notifications and noisy comment threads, we kindly ask that you **do not use "+1" comments** to express your agreement.
+Instead, use **GitHub Reactions (`👍`)** on the original issue description. Issues with the highest number of thumbs up are prioritized and highlighted by community maintainers.
 
-## Communication Guidelines
+### 2. Finding Existing Issues
+Please search for existing issues before filing a new one. You can use our labels to easily filter and find what you're looking for:
+- [🔴 `bug`](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/labels/bug)
+- [🟡 `clarification`](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/labels/clarification)
+- [🔵 `improvement`](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/labels/improvement)
+
+*(Note: Labels are applied by community moderators after reviewing an issue).*
+
+### 3. Issue Lifecycle & Triage
+1. **Creation:** You submit an issue using the visual buttons above.
+2. **Review & Triage:** A community moderator will review the issue and apply appropriate labels. They may ask for more clarification.
+3. **Voting:** The community upvotes the issue using the `👍` reaction.
+4. **Visibility:** As issues gather enough support or relevance, community moderators may pin highly impactful issues or summarize them into tracking boards.
+5. **Resolution:** If a resolution comes natively, or from Amazon developers responding in threads, the issue will be marked as closed.
+
+## 📜 Communication Guidelines
 
 To keep this effort constructive and effective, please follow these principles:
 
@@ -40,6 +69,10 @@ To keep this effort constructive and effective, please follow these principles:
 - Do not assign blame or use accusatory language
 - Keep discussions **clear, concise, and on-topic**
 
-This repository is intended to be a **technical and structured resource**, not a forum for venting.
+This repository is intended to be a **technical and structured resource**, not a forum for venting. Thank you for contributing to a constructive and transparent community effort!
 
-Thank you for contributing to a constructive and transparent community effort.
+## 🌍 Official Channels
+This repo does not intend to replace the official channels for reporting issues to Amazon:
+* [Developer Support Portal](https://developer.amazon.com/alexa/console/developer-support)
+* [Alexa Developer Forums](https://forums.developer.amazon.com/spaces/101/alexa-skills-kit.html)
+* [Alexa Skills Community Slack](https://alexacommunity.slack.com/archives/C01DR953CAZ)
