@@ -2,7 +2,7 @@
 
 The goal of this repository is to provide a transparent and structured view of issues affecting Alexa Skills in Alexa+.  
 
-**Disclaimer: This is a community-maintained project and is not affiliated with or endorsed by Amazon.** However, the community would welcome Amazon’s participation in this effort, including updates, clarifications, or additional context where appropriate.
+**DISCLAIMER**: This is a community-maintained project and is not affiliated with or endorsed by Amazon. **Issues created in this repo aren't actively screened, triaged or actioned by Amazon.** However, the community would welcome Amazon’s participation in this effort, including updates, clarifications, or additional context where appropriate.
 
 The core of this repository is the **[Issues](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues)** section. Each issue represents a concrete, reproducible problem or request concerning Alexa Skills in Alexa+.
 
@@ -10,7 +10,7 @@ This repo does not intend to replace the official channels for reporting issues 
 
 ## Purpose
 
-Over time, a number of challenges have emerged around functionality, discoverability, and overall experience for Alexa Skills on Alexa+. This tracker aims to:
+Over time, a number of challenges have emerged around functionality, discoverability, and overall experience for Alexa Skills on Alexa+. There's no central place to track progress on these issues for the Alexa developer community, so this tracker aims to:
 
 - Provide a **central, structured view** of known issues  
 - Help the community **collaborate and share information**  
