@@ -9,14 +9,19 @@ type: Bug
 ---
 
 **Describe the bug**
-A clear and concise description of what the bug is.
+A clear and concise description of what the bug is. I agree to:
+- Stay calm, respectful, and professional, and to focus on facts and observable behavior
+- Keep each issue focused on a single topic
+- Add relevant comments or updates if new information becomes available
 
 **To Reproduce**
-Steps to reproduce the behavior:
+Describe the steps to reproduce the behavior e.g.
 1. Say '...'
 2. Tap on '....'
 3. Scroll down to '....'
-4. See error
+
+**Observed behavior**
+A clear and concise description of what you or your customers observed is happening.
 
 **Expected behavior**
 A clear and concise description of what you expected to happen.
