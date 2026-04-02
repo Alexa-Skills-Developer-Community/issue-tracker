@@ -13,6 +13,10 @@ A clear and concise description of what the bug is. I agree to:
 - Stay calm, respectful, and professional, and to focus on facts and observable behavior
 - Keep each issue focused on a single topic
 - Add relevant comments or updates if new information becomes available
+- Refer to Amazon's bug report instructions as additional steps (see: https://alexacommunity.slack.com/archives/C01DR953CAZ/p1770936828526289?thread_ts=1770135316.978749&cid=C01DR953CAZ)
+
+**Developer Support Ticket**
+If you opened a developer support case (always recommended), share the ticket number here.
 
 **To Reproduce**
 Describe the steps to reproduce the behavior e.g.
