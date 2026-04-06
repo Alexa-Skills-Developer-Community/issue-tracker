@@ -4,12 +4,10 @@
 
 *A transparent, structured initiative to track issues affecting Alexa Skills in Alexa+.*
 
-[![Issues](https://img.shields.io/github/issues/Alexa-Skills-Developer-Community/issue-tracker?style=flat-square)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues)
-[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues)
+[![Issues](https://img.shields.io/github/issues/SkillDevs-io/issue-tracker?style=flat-square)](https://github.com/SkillDevs-io/issue-tracker/issues)
+[![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://github.com/SkillDevs-io/issue-tracker/issues)
 
 </div>
-
----
 
 > [!WARNING]
 > **Community Maintained**  
@@ -17,13 +15,13 @@
 
 ## 🚀 Quick Actions: Create an Issue
 
-*Please check if your issue [already exists](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues) before creating a new one.*
+*Please check if your issue [already exists](https://github.com/SkillDevs-io/issue-tracker/issues) before creating a new one.*
 
 <div align="center">
 
-[![Report a Bug](https://img.shields.io/badge/Report_a_Bug-d73a4a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues/new?template=bug_report.md)
-[![Request Clarification](https://img.shields.io/badge/Request_Clarification-ffc107?style=for-the-badge&logo=github&logoColor=black)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues/new?template=clarification-needed.md)
-[![Suggest Improvement](https://img.shields.io/badge/Suggest_Improvement-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/issues/new?template=improvement-needed.md)
+[![Report a Bug](https://img.shields.io/badge/Report_a_Bug-d73a4a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkillDevs-io/issue-tracker/issues/new?template=bug_report.md)
+[![Request Clarification](https://img.shields.io/badge/Request_Clarification-ffc107?style=for-the-badge&logo=github&logoColor=black)](https://github.com/SkillDevs-io/issue-tracker/issues/new?template=clarification-needed.md)
+[![Suggest Improvement](https://img.shields.io/badge/Suggest_Improvement-0366d6?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SkillDevs-io/issue-tracker/issues/new?template=improvement-needed.md)
 
 </div>
 
@@ -46,9 +44,9 @@ Instead, use **GitHub Reactions (`👍`)** on the original issue description. Is
 
 ### 2. Finding Existing Issues
 Please search for existing issues before filing a new one. You can use our labels to easily filter and find what you're looking for:
-- [🔴 `bug`](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/labels/bug)
-- [🟡 `clarification`](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/labels/clarification)
-- [🔵 `improvement`](https://github.com/Alexa-Skills-Developer-Community/issue-tracker/labels/improvement)
+- [🔴 `bug`](https://github.com/SkillDevs-io/issue-tracker/labels/bug)
+- [🟡 `clarification`](https://github.com/SkillDevs-io/issue-tracker/labels/clarification)
+- [🔵 `improvement`](https://github.com/SkillDevs-io/issue-tracker/labels/improvement)
 
 *(Note: Labels are applied by community moderators after reviewing an issue).*
 
@@ -73,6 +71,6 @@ This repository is intended to be a **technical and structured resource**, not a
 
 ## 🌍 Official Channels
 This repo does not intend to replace the official channels for reporting issues to Amazon:
-* [Developer Support Portal](https://developer.amazon.com/alexa/console/developer-support)
-* [Alexa Developer Forums](https://forums.developer.amazon.com/spaces/101/alexa-skills-kit.html)
-* [Alexa Skills Community Slack](https://alexacommunity.slack.com/archives/C01DR953CAZ)
+* [Developer Support Forms](https://developer.amazon.com/alexa/console/contact-us)
+* [Alexa Developer Forums](https://stackoverflow.com/tags/alexa-skills-kit)
+* [Alexa Skills Community Slack](https://alexacommunity.slack.com/)
