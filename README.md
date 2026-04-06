@@ -2,7 +2,9 @@
 
 # 🗣️ Alexa Skills Issue Tracker
 
-*A transparent, structured initiative to track issues affecting Alexa Skills in Alexa+.*
+*The issue tracker behind [SkillDevs.io](https://skilldevs.io): a transparent, structured initiative to track issues affecting Alexa Skills in Alexa+. We bring visibility to reported issues to support improvements for both Alexa developers and users.*
+
+*[Read more about this initiative](https://skilldevs.io/blog/introducing-skilldevs)*
 
 [![Issues](https://img.shields.io/github/issues/SkillDevs-io/issue-tracker?style=flat-square)](https://github.com/SkillDevs-io/issue-tracker/issues)
 [![Contributions Welcome](https://img.shields.io/badge/Contributions-Welcome-brightgreen.svg?style=flat-square)](https://github.com/SkillDevs-io/issue-tracker/issues)
@@ -11,7 +13,7 @@
 
 > [!WARNING]
 > **Community Maintained**  
-> This is a community-maintained project and is not affiliated with or endorsed by Amazon. **Issues created in this repo aren't actively screened, triaged or actioned by Amazon.** However, the community welcomes Amazon’s participation in this effort, including updates, clarifications, or additional context where appropriate.
+> This is a community-maintained project and is not affiliated with or endorsed by Amazon. **Issues created in this repo aren’t actively screened, triaged or actioned by Amazon.** However, the community welcomes Amazon’s participation in this effort, including updates, clarifications, or additional context where appropriate.
 
 ## 🚀 Quick Actions: Create an Issue
 
